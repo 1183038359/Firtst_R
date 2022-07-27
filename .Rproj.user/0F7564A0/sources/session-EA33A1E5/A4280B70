@@ -1,11 +1,11 @@
 {
     "id": "A4280B70",
-    "path": null,
-    "project_path": null,
+    "path": "C:/Users/11830/Desktop/Firtst_R/HelloWorld.Rmd",
+    "project_path": "HelloWorld.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "793946095",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1658933540105.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 30681206253158404,
-    "encoding": "",
+    "lastKnownWriteTime": 1658934633,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658933597517,
+    "last_content_update": 1658934633727,
     "read_only": false,
     "read_only_alternatives": []
 }
